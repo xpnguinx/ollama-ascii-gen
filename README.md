@@ -1,7 +1,8 @@
 # Ollama ASCII Art Generator
 
 A feature-rich desktop application that combines ASCII art generation with an Ollama-powered chatbot interface.
-<img width="1168" alt="Screenshot 2025-03-01 at 5 25 21 PM" src="https://github.com/user-attachments/assets/19db2f4d-d6f1-4274-95f3-703e011e430a" />
+<img width="1141" alt="Screenshot 2025-03-01 at 5 25 54 PM" src="https://github.com/user-attachments/assets/99c71718-0452-40b6-9be3-cd70c8eb09ca" />
+
 
 
 
