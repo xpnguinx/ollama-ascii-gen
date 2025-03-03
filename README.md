@@ -15,7 +15,7 @@ A feature-rich desktop application that combines ASCII art generation with an Ol
 - Animated shadow effects for a 3D look
 - Copy ASCII art to clipboard
 - Export as animated GIF
-- Multi-line text support
+- Multi-line text support 
 
 ### Ollama Chat Integration
 - Built-in streaming chat interface
