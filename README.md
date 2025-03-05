@@ -8,7 +8,7 @@ A feature-rich desktop application that combines ASCII art generation with an Ol
 
 ## Features
 
-### ASCII Art Generator
+### ASCII Art Generator 
 - Convert text to stylish ASCII art with dozens of font options
 - Real-time preview of font selections
 - Customizable text and shadow colors with color picker
